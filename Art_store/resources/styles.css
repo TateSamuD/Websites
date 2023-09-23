@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+
+* {
+    font-family: 'Poppins';
+    box-sizing: border-box;
+}
+
+header{
+    background-color: #2b2b2b;
+}
+
+.carousel {
+    margin-bottom: 4rem;
+}
+
+.carousel-caption{
+    bottom: 3rem;
+    z-index: 10;
+    /* width: 50%; */
+    background-color: #d8d8d8be;
+}
+
+.carousel-item{
+    height: 32rem;
+}
+
+.hobbies{
+    font-size: small;
+}
